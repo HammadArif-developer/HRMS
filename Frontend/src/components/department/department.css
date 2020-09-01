@@ -1,0 +1,14 @@
+.imgpos {
+    padding: 0px !important;
+    object-fit: fill;
+  }
+  .formplacing {
+    margin: 100px 100px auto 300px !important;
+    width: auto;
+    height: auto;
+  }
+  
+  .useStyle {
+    margin: 10px 10px 10px !important;
+  }
+  

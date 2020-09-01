@@ -1,0 +1,49 @@
+.ContainerPlacing {
+  margin: 50px 50px 50px 50px auto !important;
+}
+
+.input:invalid:required {
+  box-shadow: 0 0 5px 1px;
+}
+
+.ContainerPlacing ul {
+  padding: 0px;
+  margin: 0px;
+}
+.ContainerPlacing ul li {
+  list-style: none;
+  float: left;
+  margin: 10px 20px 30px 10px;
+  width: 30%;
+  text-align: left;
+}
+
+h5 {
+  color: #707070;
+}
+
+.makeStyles-image-3 {
+  background-color: #fafafa;
+}
+
+.margin {
+  margin: 10px 10px 10px;
+}
+
+.centerplacing {
+  text-align: center;
+  
+  margin: auto !important;
+}
+
+.margin {
+  margin: 10px 10px 10px !important;
+}
+
+.picture {
+  width: 75px !important;
+  height: 75px !important;
+}
+.pictureBG {
+  background-color: #fafafa;
+}

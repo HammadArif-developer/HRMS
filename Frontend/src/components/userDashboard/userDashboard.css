@@ -1,0 +1,43 @@
+.MuiButton-label {
+  color: white;
+}
+.positioning {
+  display: flex;
+  margin-bottom: 20px;
+}
+.userDashboard {
+  margin: 25px 0px auto 140px !important;
+  max-width: 60%;
+  max-height: 60%;
+  padding: 0;
+}
+.clockContainer {
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  max-width: 100px;
+  max-height: 100px;
+  margin-top: 80px;
+  margin-left: 70%;
+}
+.piechart {
+  margin-top: 20px;
+  background-color: #d3c1c3;
+  max-width: 350px;
+  max-height: 390px;
+  min-width: 350px;
+  min-height: 390px;
+  border-radius: 20px;
+}
+.clock {
+  margin-left: 0px;
+}
+
+.chartBackground {
+  max-width: 200px;
+  min-width: 200px;
+  max-height: 200px;
+  min-height: 200px;
+  margin: auto;
+  margin-top: 50px;
+}

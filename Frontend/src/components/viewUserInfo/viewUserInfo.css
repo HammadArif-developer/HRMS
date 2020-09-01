@@ -1,0 +1,25 @@
+.ContainerPlacing {
+  display: inline-block;
+}
+
+h5 {
+  color: #707070;
+}
+
+.makeStyles-image-3 {
+  background-color: #fafafa;
+}
+
+
+.centerplacing {
+  margin-left: 400px !important;
+}
+
+.userInfo {
+  margin-top: 0px !important;
+  margin-left: 10%;
+}
+.buttonmargin {
+  margin-left: 300px !important;
+  margin-bottom: 20px !important;
+}

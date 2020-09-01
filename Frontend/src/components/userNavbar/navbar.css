@@ -1,0 +1,10 @@
+.placinglog {
+    display: flex;
+    justify-content: space-between;
+}
+.hr {
+    align-content: flex-start;
+}
+.log {
+    align-content: flex-end;
+}

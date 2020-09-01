@@ -1,0 +1,33 @@
+.ContainerPlacing {
+  margin: 100px auto 0 250px;
+}
+
+.input:invalid:required {
+  box-shadow: 0 0 5px 1px;
+}
+.centerplacing {
+  text-align: center;
+}
+
+.myForm {
+  background-color: #fafafa;
+}
+
+.margin {
+  margin: 10px 10px 10px !important;
+}
+.formContainer {
+  background-color: #fafafa;
+}
+
+.MuiTextField-root {
+  margin: 10px 10px 10px !important;
+  width: 25ch;
+}
+.departmentDropdown {
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  min-width: 200px !important;
+  max-width: 200px !important;
+}

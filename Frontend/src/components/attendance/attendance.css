@@ -1,0 +1,9 @@
+.ContainerPlacing {
+    margin: 100px auto 0 250px;
+}
+.tableplacing {
+  margin: 150px 100px auto 300px !important;
+  margin-bottom: 50px !important;
+  width: auto;
+  height: auto;
+}
